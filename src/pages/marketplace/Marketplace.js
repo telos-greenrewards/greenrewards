@@ -35,7 +35,7 @@ const Marketplace = () => {
                                 <br></br>
                                 Seller’s location: <span className='mx-10'>Lagos, Nigeria</span>
                                 <br></br>
-                                Price:<span className='mx-28'>2 $OTTO</span>
+                                Price:<span className='mx-28'>2 $TLOS</span>
                             </p>
                             <div>
                                 <button class="bg-white hover:bg-[#427142] text-[#427142] font-bold py-2 px-4 border border-black rounded w-full">
@@ -59,7 +59,7 @@ const Marketplace = () => {
                                 <br></br>
                                 Seller’s location: <span className='mx-10'>Lagos, Nigeria</span>
                                 <br></br>
-                                Price:<span className='mx-28'>5 $OTTO</span>
+                                Price:<span className='mx-28'>5 $TLOS</span>
                             </p>
                             <div>
                                 <div>
@@ -84,7 +84,7 @@ const Marketplace = () => {
                                 <br></br>
                                 Seller’s location: <span className='mx-10'>Kano, Nigeria</span>
                                 <br></br>
-                                Price:<span className='mx-28'>3 $OTTO</span>
+                                Price:<span className='mx-28'>3 $TLOS</span>
                             </p>
                             <div>
                                 <button class="bg-white hover:bg-[#427142] text-[#427142] font-bold py-2 px-4 border border-black rounded w-full">
@@ -111,7 +111,7 @@ const Marketplace = () => {
                                 <br></br>
                                 Seller’s location: <span className='mx-10'>P.Harcourt, Nigeria</span>
                                 <br></br>
-                                Price:<span className='mx-28'>7 $OTTO</span>
+                                Price:<span className='mx-28'>7 $TLOS</span>
                             </p>
                             <div>
                                 <button class="bg-white hover:bg-[#427142] text-[#427142] font-bold py-2 px-4 border border-black rounded w-full">
@@ -135,7 +135,7 @@ const Marketplace = () => {
                                 <br></br>
                                 Seller’s location: <span className='mx-10'>150 pieces</span>
                                 <br></br>
-                                Price:<span className='mx-28'>4 $OTTO</span>
+                                Price:<span className='mx-28'>4 $TLOS</span>
                             </p>
                             <div>
                                 <button class="bg-white hover:bg-[#427142] text-[#427142] font-bold py-2 px-4 border border-black rounded w-full">
@@ -158,7 +158,7 @@ const Marketplace = () => {
                                 <br></br>
                                 Seller’s location: <span className='mx-10'>Lagos, Nigeria</span>
                                 <br></br>
-                                Price:<span className='mx-28'>3 $OTTO</span>
+                                Price:<span className='mx-28'>3 $TLOS</span>
                             </p>
                             <div>
                                 <button class="bg-white hover:bg-[#427142] text-[#427142] font-bold py-2 px-4 border border-black rounde w-full">
