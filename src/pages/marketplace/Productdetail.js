@@ -37,7 +37,7 @@ const Productdetail = () => {
                             <br></br><b style={{ marginRight: '8rem' }}>Seller’s location: </b>Lagos, Nigeria
                             <br></br><b style={{ marginRight: '9rem' }}>Seller’s Name: </b>Devon Lane
                             <br></br><b style={{ marginRight: '5rem' }}>Seller’s wallet address: </b>0x f768 912a 2016 45nn q710o0c6 81b6 ny85 
-                            <br></br><b style={{ marginRight: '13rem', color: '#015C28' }}>Price: </b><span style={{ color: '#015C28' }}>2 $OTTO </span>
+                            <br></br><b style={{ marginRight: '13rem', color: '#015C28' }}>Price: </b><span style={{ color: '#015C28' }}>2 $TLOS </span>
                         </p>
                         <EButton>Edit Information</EButton>
                         <AButton>Add a Comment</AButton>

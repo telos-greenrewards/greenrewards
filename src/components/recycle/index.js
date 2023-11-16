@@ -36,7 +36,7 @@ const Recycle = () => {
                                 <br></br>
                                 Seller’s location: <span className='mx-4'>Lagos, Nigeria</span>
                                 <br></br>
-                                Price:<span className='mx-20'>2 $OTTO</span>
+                                Price:<span className='mx-20'>2 $TLOS</span>
                             </p>
                             <div>
                             <button class="bg-white hover:bg-[#427142] text-[#427142] font-bold py-2 px-4 border border-black rounded w-full">
@@ -60,7 +60,7 @@ const Recycle = () => {
                                 <br></br>
                                 Seller’s location: <span className='mx-4'>Lagos, Nigeria</span>
                                 <br></br>
-                                Price:<span className='mx-20'>5 $OTTO</span>
+                                Price:<span className='mx-20'>5 $TLOS</span>
                             </p>
                             <div >
                             <button class="bg-white hover:bg-[#427142] text-[#427142] font-bold py-2 px-4 border border-black rounded w-full">
@@ -83,7 +83,7 @@ const Recycle = () => {
                                 <br></br>
                                 Seller’s location: <span className='mx-4'>Kano, Nigeria</span>
                                 <br></br>
-                                Price:<span className='mx-20'>3 $OTTO</span>
+                                Price:<span className='mx-20'>3 $TLOS</span>
                             </p>
                             <div>
                             <button class="bg-white hover:bg-[#427142] text-[#427142] font-bold py-2 px-4 border border-black rounded w-full">
