@@ -30,7 +30,7 @@ const SellProduct = () => {
     const { config } = usePrepareContractWrite({
         address: '0x25d3195984A693886103312eA3FA53D738c951B7',
         abi: greenRewardABI,
-        functionName: 'listProduct',
+        functionName: 'getSeller',
     })
     const { data, isLoading, isSuccess, write } = useContractWrite(config)
 

@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import logo from "../../assets/logo.png";
 import { Link, NavLink } from "react-router-dom";
 import user from "../../assets/user.png";
-import { ConnectButton } from '@rainbow-me/rainbowkit';
 import { Fragment } from 'react'
 import { Menu, Transition } from '@headlessui/react';
 import { AiOutlineClose } from 'react-icons/ai';
@@ -79,7 +78,7 @@ const Navbar = () => {
                 </Menu>
 
 
-                <ConnectButton />
+                
                 {/* Mobile Hamburger Menu */}
                 <div className='tab:hidden'>
                     <button onClick={handleMobileMenu}>
