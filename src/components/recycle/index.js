@@ -18,7 +18,7 @@ const Recycle = () => {
                 
                     <h2 className="text-[#427142] text-3xl pb-[48px] font-bold leading-10">
                         Recyclable materials for sale (Prices are in Unit of Measure)
-                        <Link class='text-[#0F160F] text-base mx-20'>View More</Link>
+                        <Link to='/market-place' class='text-[#427142] text-base mx-20 font-normal'>View More</Link>
                     </h2>
                     <div className='bg-white grid-cols-4 gap-4" md:flex md:flex-row'>
                     <div className="content-card w-full md:w-[32%] mb-5 h-full rounded-t-lg px-8 mt-10 mx-10">

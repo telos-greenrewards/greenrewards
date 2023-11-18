@@ -10,7 +10,7 @@ const How = () => {
     return (
         <div className="bg-white">
             <div className="container mx-auto px-8 sm:px-[80px] pb-[100px]">
-                <div class='mx-80 px-6 mb-3 '>
+                <div class='mb-3 '>
                     <h2 className="text-[#427142] text-3xl font-bold leading-10">
                         How GreenRewards work
                     </h2>
