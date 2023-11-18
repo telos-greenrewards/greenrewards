@@ -24,11 +24,11 @@ const Home = () => {
 
         return (
                 <main className='bg-[#DBE1D4] h-screen'>
-
+<div>
                         <div className="mx-8 pt-16">
                                 <Navbar />
                         </div>
-                        <section className='w-[100vw] md:w-[100%]'>
+                        <section className="mx-auto sm:flex-col">
                                 <h1 className='text-[30px] md:text-[34px] font-bold capitalize  text-[#0F160F] mx-80 mt-10' >Empower climate change and sustainable </h1>
                                 <h2 className='text-[30px] md:text-[32px] font-bold capitalize text-[#0F160F]  mx-96'>carbon reduction through recycling.</h2>
                                 <h3 className='text-[18px] md:text-[16px] text-[#0F160F]  mx-96 px-4'>Trade recyclables on the blockchain, earn rewards, and power the green</h3>
@@ -71,7 +71,7 @@ const Home = () => {
                                 </div>
                         </section>
 
-
+                        </div>
                 </main>
 
 
