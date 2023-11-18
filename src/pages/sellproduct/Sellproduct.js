@@ -90,9 +90,9 @@ const SellProduct = () => {
 
 
 
-<label class="text-sm font-medium text-black block mb-2" for="user_avatar">Add a picture of the recyclable material </label>
-<input class="block w-3/4 cursor-pointer bg-white border-black border-solid border-2  text-black focus:outline-none focus:border-black  text-sm rounded-lg" aria-describedby="file_upload" id="file_upload" type="file"/>
-<div class="mt-1 text-sm text-black" id="file">Drag and drop or Select file from computer</div>
+                        <label class="text-sm font-medium text-black block mb-2" for="user_avatar">Add a picture of the recyclable material </label>
+                        <input class="block w-3/4 cursor-pointer bg-white border-black border-solid border-2  text-black focus:outline-none focus:border-black  text-sm rounded-lg" aria-describedby="file_upload" id="file_upload" type="file" />
+                        <div class="mt-1 text-sm text-black" id="file">Drag and drop or Select file from computer</div>
 
                         <Checkbox
                             id="checkbox"
@@ -105,7 +105,7 @@ const SellProduct = () => {
                             text="Proceed to Confirm"
                             color="#fff"
                             borderColor="#2B452B"
-                            disabled={!write} onClick={() => write?.()}       
+                            disabled={!write} onClick={() => write?.()}
 
                         />
                         {isLoading && <div>Check Wallet</div>}

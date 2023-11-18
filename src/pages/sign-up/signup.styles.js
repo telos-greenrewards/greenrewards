@@ -36,7 +36,7 @@ export const SignupWrapper = styled.div`
     `;
 
 
-    export const Wrapper = styled.div`
+export const Wrapper = styled.div`
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -78,7 +78,7 @@ export const SignupWrapper = styled.div`
     `;
 
 
-    export const FormHeader = styled.div`
+export const FormHeader = styled.div`
     width: 80%;
     height: 15%;
     display: flex;
